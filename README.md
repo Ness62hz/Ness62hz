@@ -1,4 +1,4 @@
-## Oiii eu sou a Cassiano Rocha Dia ou mais intimo Ness62hz, programador FullStack
+## Oiii eu sou a Cassiano Rocha Dia ou para os mais intimo Ness62hz, programador FullStack
 <div align="center">
   <a href="https://github.com/Ness62hz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ness62hz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
